@@ -3,3 +3,6 @@ openai==0.27.8
 tiktoken==0.4.0
 tokenizers==0.13.3
 unstructured==0.8.0
+spacy
+transformers
+flask
